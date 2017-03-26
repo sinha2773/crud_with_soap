@@ -12,3 +12,5 @@ Run the App on Localhost
 1. Make a folder as "soap" in htdocs(for xampp) or in www(for wamp) 
 2. Keeps the files in soap folder
 3. Browse the project as http://localhost/soap
+
+BLOG URL: http://www.w3programmers.com/crud-php-soap/
